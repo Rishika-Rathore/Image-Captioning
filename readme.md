@@ -5,7 +5,7 @@ This Model has three parts specifically :
 			3.Creating Caption for the input images 
 ## Breif Description of Files :
 **model.py** It contains all the files of different networks used, put together in order at one place.**bounding_box.py** It 
-contains code for creating bounding box around the elements present in the images.**preprocess.py** It contaims the code necessary to 
+contains code for creating bounding box around the elements present in the images.**preprocess.py** It contains the code necessary to 
 preprocess the data before being fed to the network.
 
 
