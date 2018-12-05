@@ -4,7 +4,6 @@ import os
 from gluoncv import model_zoo, data, utils
 from matplotlib import pyplot as plt
 
-
 #Creating image list
 Image=[]
 Id=[]
