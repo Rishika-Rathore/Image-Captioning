@@ -1,4 +1,4 @@
-#Image captioning Model
+#Image captioning Model:
 This Model has three parts specifically :
 			1.Creating bounding box
 			2.Creating a Dense Representation of the image
